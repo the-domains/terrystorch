@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TerryStorch]]></title>
         <description><![CDATA[TerryStorch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/terrystorch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 12:06:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 12:14:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/terrystorch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YouVersion Bible App]]></title>
             <description><![CDATA[<article><h1>YouVersion Bible App</h1><p>The other day I woke up and realized I have over 10 open headcount on all my digerati teams. Just amazing to look back and see the growth, and the true blessings of God! From humble beginnings in 2007 where LifeChurch Digerati was just me...and today with a full team across the board we are quickly approaching 100. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7142926b874aee0d020cc5c1776a5a7acf29f6f0.png"></article>]]></description>
-            <link>undefined9bae051e-7b75-40d5-888f-34435859430a/index.html</link>
+            <link>https://thegrid.ai/terrystorch/9bae051e-7b75-40d5-888f-34435859430a/index.html</link>
             <guid isPermaLink="false">9bae051e-7b75-40d5-888f-34435859430a</guid>
-            <pubDate>Tue, 09 Feb 2016 12:06:14 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 12:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
