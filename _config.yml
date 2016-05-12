@@ -1,28 +1,40 @@
-name: TerryStorch
 favicon: null
-layout_spectrum: 0.8138064534869045
-typography_spectrum: 0.731141404248774
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TerryStorch
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6875
+  brandStrength: 0.3506213657092303
+  rhythmicContrast: 0.2349926105234772
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.3506213657092303
   lightness: 1
-  saturation: 0.6875
-  rhythmicContrast: 0.2349926105234772
-purpose: []
+typography_spectrum: 0.3839957
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8138064534869045
+analytics:
+  twitter: null
+  google: null
+  facebook: null
